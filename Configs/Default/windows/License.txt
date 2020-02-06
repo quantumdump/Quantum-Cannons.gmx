@@ -1,0 +1,33 @@
+THIS END USER LICENSE AGREEMENT APPLIES TO ALL USE OF THIS GAME
+
+Scope
+-----
+You may:
+
+Install and use this Application for personal, or commercial use [provided you have paid any license fee, if this applies];
+
+You must not:
+
+use, copy, transfer, distribute modify, adapt, merge, translate, decompile, disassemble, or reverse engineer the Application or part of it except as expressly permitted by this Licence;
+remove, modify, or tamper with any copyright, trademark or other notice;
+use the Application for any illegal, unlawful or immoral purposes.
+
+
+Term
+----
+This License will end automatically if you breach any of the terms.
+When this License ends you must stop all use of the Application and destroy and erase any copies you have.
+
+
+Liability
+---------
+
+You install and use the Application at your own risk and in no event will creator of this game be liable to you for any loss or damage of any kind including lost profits or other consequential loss arising from the use of or inability to use the Application or from errors or deficiencies in it whether caused by negligence or otherwise.
+
+
+General
+-------
+
+All intellectual property rights included in the Game belong to Samba Traore.
+
+Click “ACCEPT” and accept these terms to install and use this Application. If you do not accept them terms you may not continue with the installation and you must not install, use or run this software on this or any other computer.

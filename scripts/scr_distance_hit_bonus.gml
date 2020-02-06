@@ -1,0 +1,1 @@
+///scr_distance_hit_bonus()
